@@ -1,0 +1,145 @@
+
+*{margin: 0%;
+    padding: 0%;
+    text-align: center;
+                        }
+p{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{background-image: linear-gradient(to bottom ,rgb(0, 0, 0),rgb(143, 143, 143));
+    width:90%;margin: 0 auto;min-width:600px;max-width:2000px
+
+}
+
+    p{
+        color: blue;
+        font-size: 20px;
+        height: 100%;
+        min-height: 100%;
+    }
+
+    main{
+       
+        height: 100%;
+        min-height: 100%;
+    }
+div{
+    
+    color: blue;
+    height: 100%;
+        min-height: 100%;
+    }
+    #CVCOLOR:hover{
+        background-color: aliceblue; 
+        width: 25%;
+        font-style:oblique;
+        font-size: 50px;
+         text-align: center;
+       color: rgb(0, 0, 0); 
+       padding: 0px 0px 5px 0px;
+        
+    }
+    html {
+        height: 100%;
+        min-height: 100%;
+    }
+    
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100%;
+    width: 100%;
+    }
+    
+    #CVCOLOR {
+       width: 25%;
+        background-color: aliceblue;
+        background-image: linear-gradient(rgb(172, 172, 172),rgb(255, 255, 255));
+    background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+        position: absolute;
+        width: 30%;
+        bottom: 40%;
+        font-style:oblique;
+        font-size: 50px;
+        text-align: center;
+        margin-top: auto;
+    }
+    #estilo1{background-image: linear-gradient(rgb(255, 255, 255),rgb(255, 196, 0));
+        background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;}
+  #estilo2{background-image: linear-gradient(rgb(255, 196, 0),rgb(255, 255, 255));
+    background-clip: text;
+-webkit-background-clip: text;
+color: transparent;}
+#estilo3{background-image: linear-gradient(rgb(255, 196, 0),rgb(255, 255, 255));
+    background-clip: text;
+-webkit-background-clip: text;
+color: transparent;}
+#estilo4{background-image: linear-gradient(rgb(255, 196, 0),rgb(255, 255, 255));
+    background-clip: text;
+-webkit-background-clip: text;
+color: transparent;}
+
+div.numero1{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+}
+div.imagem1{
+    position: absolute;
+    width: 0%;
+    bottom: 0%;
+    font-style:oblique;
+    font-size: 50px;
+    text-align: center;
+    margin-top: auto;
+
+}
+h2{position: absolute;
+    bottom: 80px;
+background-color: black;
+    color: rgb(255, 255, 255);
+}
+th{
+    color: aliceblue;
+background-color: black;
+}
+td{position: absolute;
+    color: rgb(0, 0, 0);
+background-color: rgb(133, 132, 132);
+bottom:  55px;
+left: 25px;
+padding: 1%;
+width: auto;
+font-size: large;
+}
+#Formulário{
+    position: absolute;
+    width: 0%;
+    bottom: 0%;
+    font-style:oblique;
+    font-size: 40px;
+    text-align: center;
+    margin-top: auto;
+}
+#Comentário{
+    padding: 50px;
+}
+#Botão:active{
+    bottom: 25px;
+    background-color: black;
+    color: aliceblue;
+}
+#titulo{
+
+    color: aliceblue;
+
+}
+#CV{
+    position: absolute;
+    text-align: center;
+}
