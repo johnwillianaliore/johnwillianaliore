@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    display: grid;
+    grid-template-columns: 90% 10%;
+background-color: blue;
+    padding: 10px 20px;
+}
+#titulo{
+    padding: 5px 60px;
+    
+    border-radius: 100px;
+
+    width: 100px;
+    
+    font-size: 30px;
+
+    background-color: yellowgreen;
+}
+#search {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+
+    width: 100px;
+    
+    font-size: 14px;
+
+    background-color: yellowgreen;
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 2fr 90px;
+    background-color: yellow;
+
+}
+.container2 {
+    background-color: yellow;
+    width: auto;
+
+}
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    
+}
+.Paisagem{
+    display: grid;
+    grid-template-rows: 10% 90%;
+    justify-items: center;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.Space{
+    display: grid;
+    grid-template-rows: 10% 90%;
+    justify-items: center;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+section {
+    margin: 10px 50px;
+    border: 10px solid yellowgreen;
+    padding: 0px;
+    width: 240px;
+    
+}
+#Paisagem:hover{
+    margin: -15px;
+    border: 0px solid yellowgreen;
+    padding: 0px 5px;
+    width: 100px;
+    height: 100px;
+    
+}
+#space:hover{
+    margin: -15px;
+    border: 0px solid yellowgreen;
+    padding: 0px 5px;
+    width: 100px;
+    height: 100px;
+    
+}
+img {
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+    color: yellow;
+}
+#botaoHome{
+    position: fixed;
+    bottom: 91%;
+    width: 10%;
+    background-color: greenyellow;
+    border-radius: 100px;
+}
+#botaoHome:hover{
+    position: fixed;
+    bottom: 91%;
+    width: 10%;
+    background-color: greenyellow;
+    border-radius: 100px;
+    padding: 1%;
+    font-weight: bold;
+}
+
+footer {
+    display: grid;  
+    justify-items: center;
+
+    padding: 10px 0;
+    
+    background-color: greenyellow;
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#footer2{
+    display: grid;  
+    justify-items: center;
+
+    padding: 15px 0;
+    
+    background-color: greenyellow;
+font-weight: bold;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
