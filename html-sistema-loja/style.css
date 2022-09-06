@@ -1,0 +1,38 @@
+body {background-image: linear-gradient(to left,orange,blue);}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 13vh;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 000px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+
+}
+
+
+footer{
+    text-align: center;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    background-image: linear-gradient(blue,orange);
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-top: 300px;
+    margin-right: 100px;
+    margin-bottom: 000px;
+    margin-left: 50px;
+
+}
+nav{
+background-color: black;
+
+}
+a
+
