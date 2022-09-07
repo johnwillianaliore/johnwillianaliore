@@ -1,7 +1,7 @@
 
 ## Olá eu sou o John Willian aliore 
 
--🎓Hoje Formado em Front-End(Buscando Primeira oportunidade)
+-🎓Hoje Formado em Front-End
 -📚 Estudando Back-End
 -😁 Pronomuns: Ele/Dele
 
