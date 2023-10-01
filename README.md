@@ -1,8 +1,8 @@
 
 ## Olá eu sou o John Willian aliore 
 
--🎓Hoje Formado em Front-End
--📚 Estudando Back-End
+-🎓Hoje Formado em React.js Fullstack
+-📚 Estudando Angular
 -😁 Pronomuns: Ele/Dele
 
 <div align="center">
