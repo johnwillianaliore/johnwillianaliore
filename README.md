@@ -1,7 +1,8 @@
 
-## Olá eu sou o John Willian aliore 
+## Olá eu sou o John Aliore 
 
 -🎓Programador Fullstack PHP,Laravel,React.js
+<br>
 -😁 Pronomuns: Ele/Dele
 
 <div align="center">
