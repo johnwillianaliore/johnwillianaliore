@@ -3,7 +3,6 @@
 
 -🎓Programador Fullstack PHP,Laravel,React.js
 <br>
--😁 Pronomuns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/johnwillianaliore">
